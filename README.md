@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Sam2004-2
 - 👀 I’m interested in python and javascript ...
-- 🌱 I’m currently learning React.JS and ...
-- 💞️ I’m looking to collaborate on nothing...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React.JS and Go Lang
+- 💞️ I’m looking to collaborate on python scripting projects.
+- 📫 You can reach me at samcurran33@gmail.com
 
-<!---
-Sam2004-2/Sam2004-2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
